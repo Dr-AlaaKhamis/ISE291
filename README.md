@@ -60,4 +60,4 @@ This repository will host:
 Clone the repo and follow along!
 
 ```bash
-git clone https://github.com/your-username/ise291-intro-data-science.git
+git clone https://github.com/Dr-AlaaKhamis/ISE291.git
