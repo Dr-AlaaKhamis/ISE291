@@ -36,7 +36,7 @@ By the end of this course, you will be able to:
 ## 🗂️ Course Topics
 
 - 📘 Introduction to Data Science  
-- 🐍 Python Review  
+- 🐍 [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE291/tree/main/1_Python_refresher)
 - 📊 Basic Statistics  
 - 💡 Basic Programming Concepts  
 - 🧼 Data Understanding and Preparation  
