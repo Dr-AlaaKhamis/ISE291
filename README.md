@@ -1,3 +1,10 @@
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Dr-AlaaKhamis/ISE291/blob/main/LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/Dr-AlaaKhamis/ISE291)
+![Repo Size](https://img.shields.io/github/repo-size/Dr-AlaaKhamis/ISE291)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![GitHub Stars](https://img.shields.io/github/stars/Dr-AlaaKhamis/ISE291?style=social)
+
+
 # 📊 ISE 291: Introduction to Data Science
 
 Welcome to **ISE 291 – Introduction to Data Science**!  
